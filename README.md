@@ -1,11 +1,11 @@
 #Android Wear
 
-Builds a wearable watch face for Sunshine to run on an Android Wear device.
-
+Udacity go-ubiquitous project
 #Features
 
-* Designed for multiple watch form factors.
-* Communicates between a mobile device and a wearable device.
+* Shows time and whether synced from sunshine app on mobile device
+
+
 
 ##Screens
 ![screen](../master/art/square.png)
