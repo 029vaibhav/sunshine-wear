@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_05200f755682cbc56e3301fc21bbc22cc6a0b8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_58b9c9d5579e73d5db6627c474fb164eaf7d09cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_79401414cf2649c433b38fc1515dfb69ac4c6210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_7c83d07dec729c4ef315d37703debecfac4412c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_0a55c008ceb7db7d5f27cc1a5244f9ca12435a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_bbd9d251630526459e3d5a3ffa7332bd6dee2ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_15ba50f2f83dfd39f4d8500f34b5c5c338957f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_5c02305c221ec902d11490d505bea89f56799b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.3.0_111f600bb439dad1151547fc1fc8b34459975e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_fe1b1df0016ad2e42d1ea1f3c2afff3bc12b0811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_bae51ce9643731d176686c4743ca349ea6695cac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_0f791f638cd237dee3459fd0572f72ed28f5eba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3338e399769c42b13840c5f6234c5c9d05927027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d8631afbabbb0095d2882ccf0c4396cf85ea56d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.0_32def6528b8b57f30cb4e191cf490b56d8bbed05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.0_7493f0aa0dcddc4c04d8afc1e3d72e465f29889c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.0_7f3c9724e7b8b638c52407ffd48873e00bf1fe27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_3b0d46688fb8dff8e06b921766a2c5fcba4ace58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_4490d84b47563791c5cbb3e34c538a443546d824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.0_86dd79b6c49bf69a6154c935d1341ca079868f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_d9b4a77800f8163df9f0eccc356892ef372276a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_cf7ac5f6c9b6bc382f171132636fb68902827224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.0_b0c2fbbb5e35217cda50b54a55d0180d7a4efac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_53b6e27239a6ed2e83021eb568814e38dc85c887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_d1c5721d3200e95ac2005a27f891f77a18d795e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_360116433904577a2527513e07d6997ed646c6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.0_82f738aaef8b5ee14e208a52643ad7873dc07f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_9dafe5b372f0ed20ed0c257fb7fd26a307abdf42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_fd4b122fbf94bb9d790c611e3d3a7a1a3701c613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/watchFace/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-1.4.0_1bdade4fe9bed3fb2f967e31ac73df47bfdc8157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_16f043c94ee18bdd20f8b282d1974213e19a9423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_cc7e312946cd9de951eb0c70aa6994a51f323eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_19a7d038133109ecc81e9ff19ae0c2187463029d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/sunshine-wear/app/build/intermediates/pre-dexed/debug/glide-3.5.2_90e065396606443aa646f13fa7a63195b79879bb.jar" />
+    </item>
+
+</items>
